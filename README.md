@@ -1,2 +1,9 @@
 # Lab-2
-Lab 2 contains 3 java script solutions for codewar questions 
+### Team Members 
+ - Sudheer 
+    - Tip Calculator
+    - Sum Of Cubes
+    - Count the Monkeys
+ - Mansi
+ - Simarjit
+
