@@ -5,5 +5,9 @@
     - Sum Of Cubes
     - Count the Monkeys
  - Mansi
+    - Factorial
+    - Do I get a bonus?
+    - Simple validation of a username with regex
+    
  - Simarjit
 
