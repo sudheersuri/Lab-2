@@ -12,3 +12,5 @@ function validateUsr(username) {
    return /^([a-z0-9_])+$/.test(username);
   }
 }
+
+// https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023/train/javascript
